@@ -1,0 +1,165 @@
+body{
+    margin:0 auto;
+    max-width: 1200px;
+} 
+
+.container {
+    margin-top: 40px;
+}
+
+.logo{
+    margin-left: 40px;
+    margin-bottom: -40px;
+}
+
+.logo h4 {
+    border: 4px darkslategray;
+    display: inline;
+    padding: 10px;
+    color:green;
+}
+
+.nav-bar {
+    margin-left: 700px; 
+}
+
+.nav {
+    display: inline-block;
+    border-bottom: 3px solid darkslategray;
+    margin: 20px;
+}
+
+.photo {
+    margin-top: 50px;
+    height: 330px;
+    width:340px;
+    position: relative;
+    margin-left: 100px;
+}
+
+.about {
+    margin-top: -60px;
+    margin-left: 305px;
+    position: absolute;
+    height: 200px;
+    width: 500px;
+
+}
+
+.about-text {
+    color: forestgreen;
+    font-size: 50px;
+}
+
+.live {
+margin-top: 80px;
+margin-left: 305px;
+font-weight: bold;
+text-transform: uppercase;
+}
+
+.introduction  {
+    position: relative;
+    background-color: lightgreen;
+    max-width: 1100px;
+    max-height: 500px;
+    height:325px;
+    
+}
+
+.details, li {position: relative;
+    left: 150px;
+    top: 33px;
+}
+    
+    
+
+
+.box {
+    position: relative;
+    margin-top: -57px;
+    margin-left: 540px;
+    max-width: 500px;
+    border:2px black solid;
+    width: 490px;
+    height: 230px;
+    background-color: olive;
+}
+
+.experience {
+    
+    margin-left: 80px;
+}
+
+.contain {
+    max-width: 400px;
+    display: inline-block;
+    height: 200px;
+    padding: 40px;
+}
+
+project {
+    max-width: 1000px;
+    
+}
+
+.project-images {
+    height:200px;
+    margin: none;
+}
+
+.contact {
+    padding-bottom: 70px;
+}
+
+form {
+    margin-left: 400px;
+    
+}
+
+ input {
+   height: 30px;
+   width: 500px;
+   display: block;
+   margin-bottom: 15px;
+   background-color: lightgrey;
+   color: grey;
+ }
+
+ .comment::placeholder  {
+    color: red;
+    margin-top: 30px;
+}
+
+ button {
+     height: 30px;
+     width: 60px;
+     margin-left: 445px;
+     color: thistle;
+     background-color: burlywood;
+     border-radius: 5px;
+ }
+ .comment {
+     height: 150px;
+ }
+
+.images {
+    margin-left: 500px;
+}
+
+.size {
+    height:30px;
+    width:30px;
+}
+
+.bye {
+    display: inline-block;
+    padding: 20px;
+}
+
+.iamindia {position: relative;
+    left: 277px;
+    bottom: -40px;
+    font-size: -webkit-xxx-large;
+}
+ 
